@@ -1,0 +1,15 @@
+C:\Users\Hector\source\repos\EvaluacionExperisNet\bin\Debug\net6.0\EvaluacionExperisNet.exe
+C:\Users\Hector\source\repos\EvaluacionExperisNet\bin\Debug\net6.0\EvaluacionExperisNet.deps.json
+C:\Users\Hector\source\repos\EvaluacionExperisNet\bin\Debug\net6.0\EvaluacionExperisNet.runtimeconfig.json
+C:\Users\Hector\source\repos\EvaluacionExperisNet\bin\Debug\net6.0\EvaluacionExperisNet.dll
+C:\Users\Hector\source\repos\EvaluacionExperisNet\bin\Debug\net6.0\EvaluacionExperisNet.pdb
+C:\Users\Hector\source\repos\EvaluacionExperisNet\obj\Debug\net6.0\EvaluacionExperisNet.csproj.AssemblyReference.cache
+C:\Users\Hector\source\repos\EvaluacionExperisNet\obj\Debug\net6.0\EvaluacionExperisNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector\source\repos\EvaluacionExperisNet\obj\Debug\net6.0\EvaluacionExperisNet.AssemblyInfoInputs.cache
+C:\Users\Hector\source\repos\EvaluacionExperisNet\obj\Debug\net6.0\EvaluacionExperisNet.AssemblyInfo.cs
+C:\Users\Hector\source\repos\EvaluacionExperisNet\obj\Debug\net6.0\EvaluacionExperisNet.csproj.CoreCompileInputs.cache
+C:\Users\Hector\source\repos\EvaluacionExperisNet\obj\Debug\net6.0\EvaluacionExperisNet.dll
+C:\Users\Hector\source\repos\EvaluacionExperisNet\obj\Debug\net6.0\refint\EvaluacionExperisNet.dll
+C:\Users\Hector\source\repos\EvaluacionExperisNet\obj\Debug\net6.0\EvaluacionExperisNet.pdb
+C:\Users\Hector\source\repos\EvaluacionExperisNet\obj\Debug\net6.0\EvaluacionExperisNet.genruntimeconfig.cache
+C:\Users\Hector\source\repos\EvaluacionExperisNet\obj\Debug\net6.0\ref\EvaluacionExperisNet.dll

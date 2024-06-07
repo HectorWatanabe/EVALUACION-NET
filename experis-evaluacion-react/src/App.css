@@ -1,0 +1,16 @@
+.LoginComponentContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #0B0B0B;
+}
+
+.UsePageComponent {
+  margin: 60px;
+}
+
+.RightItem {
+  display: flex;
+  justify-content: end;
+}
